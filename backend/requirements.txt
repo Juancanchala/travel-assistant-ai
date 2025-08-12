@@ -1,0 +1,7 @@
+crewai
+crewai-tools
+langchain-openai
+fastapi
+uvicorn[standard]
+python-dotenv
+duckduckgo-search
